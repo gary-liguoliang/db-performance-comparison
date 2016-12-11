@@ -37,6 +37,7 @@ JDBC with H2(Embedded), MySQL
  - PreparedStatement can increase the insertion performance
  - Insert to FileBased embedded H2 database is faster than InMemory H2
  - Joining in InMemory H2 database is faster than MySQL and FileBased H2
+ - data insertion to a embedded H2(file-based & in-memory) is faster than MySQL
 
 ## Code in Details
 
